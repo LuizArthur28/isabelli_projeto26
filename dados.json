@@ -1,0 +1,39 @@
+[
+
+{
+    "nome" : "isabelli" ,
+    "idade" : "16" ,
+    "altura" : "1,65" ,
+    "cidade" : "goiania" 
+},
+
+{
+    "nome" : "bianca" ,
+    "idade" : "41" ,
+    "altura" : "1,60" ,
+    "cidade" : "sao borja" 
+},
+
+{
+    "nome" : "marlon" ,
+    "idade" : "38" ,
+    "altura" : "1,95" ,
+    "cidade" : "missal" 
+},
+
+{
+    "nome" : "pedro" ,
+    "idade" : "9" ,
+    "altura" : "1,45" ,
+    "cidade" : "foz do iguacu" 
+},
+
+{
+    "nome" : "maria" ,
+    "idade" : "13" ,
+    "altura" : "1,75" ,
+    "cidade" : "foz do iguacu" 
+}
+
+
+]
